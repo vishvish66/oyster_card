@@ -76,4 +76,10 @@ The `index.html` file provides the user interface for the Oyster card system. It
 
 3. **Interacting with the System**:
    - Use the web interface to load money, take tube and bus trips, and view the balance.
+  
+   - <img width="344" alt="image" src="https://github.com/user-attachments/assets/0643b3c9-9624-48fa-b916-484298e56cfc">
+   - <img width="379" alt="image" src="https://github.com/user-attachments/assets/c0b7bb06-8fe0-413b-bb83-50d3cd778b25">
+
+
+
 
